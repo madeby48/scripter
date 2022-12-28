@@ -2,14 +2,15 @@
 
 ### What is scripter?
 
-Scripter is a minecraft development QoL tool that makes prototyping easier by giving designers an in-game tool to run actions with the bukkit scheduler. The primary objective of this project is to be a viable alternative to Skript, which can often have poor performance and a lack of stability.
+Scripter is a minecraft development QoL tool that makes prototyping easier by giving designers an in-game tool to run actions on the instance.  
+The primary objective of this project is to be a viable alternative to Skript, which can often have poor performance and a lack of stability.  
 
-It is recommended that you do not take source from an unstable branch and compile a build for production use, 
-you should instead use the latest release provided.
-If no release is provided, you should wait for one to be made.
+It is recommended that you do not take source from an unstable branch and compile a build for production use,    
+you should instead use the latest release provided.  
+If no release is provided, you should wait for one to be made.  
 
-The `main` branch will almost always contain the most stable code.
-*read below for where the development branch is located*
+The `main` branch will almost always contain the most stable code.  
+*read below for where the development branch is located*. 
 
 ### Versioning
 
